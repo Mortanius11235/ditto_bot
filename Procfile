@@ -1,0 +1,1 @@
+worker: python ditto_bot.py
